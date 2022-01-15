@@ -1,1 +1,11 @@
+# Default reviewer for all code changes
 * @Jasoncheungy
+
+# Reviewer by email
+*.go test@example.com
+
+# Reviewer by organization
+*.txt @OrganizationName/TeamName
+
+# Reviwer for specific folders
+/folder/folder2 @Jasoncheungy @name2
