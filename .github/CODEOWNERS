@@ -3,7 +3,7 @@
 # GitHub Team, GitHub Enterprise Cloud, and GitHub Enterprise Server
 # Restrictions do apply for this functionality.
 # Default reviewer for all code changes
-* @Jasoncheungy
+* @Jasoncheungy @Jasoncheung94
 
 # Reviewer by email
 *.go test@example.com
